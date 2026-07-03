@@ -50,8 +50,6 @@ The database consists of the following tables:
 
 ## 📊 Entity Relationship Diagram
 
-> Add your generated ER Diagram image in the project root folder as **ER_Diagram.png**.
-
 ```markdown
 ![ER Diagram](ER-Diagram.png)
 ```
