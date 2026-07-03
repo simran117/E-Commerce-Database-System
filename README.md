@@ -119,7 +119,7 @@ E-Commerce-Database-System/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/E-Commerce-Database-System.git
+git clone https://github.com/simran117/E-Commerce-Database-System.git
 ```
 
 ---
