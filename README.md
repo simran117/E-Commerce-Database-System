@@ -50,9 +50,7 @@ The database consists of the following tables:
 
 ## 📊 Entity Relationship Diagram
 
-```markdown
 ![ER Diagram](ER-Diagram.png)
-```
 
 ---
 
