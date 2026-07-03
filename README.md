@@ -48,10 +48,13 @@ The database consists of the following tables:
 
 ---
 
-```markdown
 ## 📊 Entity Relationship Diagram
 
-![ER Diagram](ER_Diagram.png)
+> Add your generated ER Diagram image in the project root folder as **ER_Diagram.png**.
+
+```markdown
+![ER Diagram](ER-Diagram.png)
+```
 
 ---
 
@@ -120,7 +123,7 @@ E-Commerce-Database-System/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/simran117/E-Commerce-Database-System.git
+git clone https://github.com/yourusername/E-Commerce-Database-System.git
 ```
 
 ---
@@ -238,7 +241,7 @@ This project demonstrates:
 
 # 👩‍💻 Author
 
-**Kashish Choudhary**
+**Simran**
 
 B103 – Databases & Big Data
 
