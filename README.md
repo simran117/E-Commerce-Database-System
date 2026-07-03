@@ -66,17 +66,6 @@ E-Commerce-Database-System/
 ├── ER_Diagram.png
 │
 ├── screenshots/
-│   ├── 01_database.png
-│   ├── 02_tables.png
-│   ├── 03_customers.png
-│   ├── 04_categories.png
-│   ├── 05_products.png
-│   ├── 06_orders.png
-│   ├── 07_payments.png
-│   ├── 08_shipping.png
-│   ├── 09_join_product_category.png
-│   ├── 10_customer_orders.png
-│   ├── 11_total_revenue.png
 │
 └── report/
     └── Project_Report.pdf
